@@ -1,5 +1,5 @@
 {
-  "name": "cicd-pipeline",
+  "name": "node-cicd-pipeline",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
